@@ -6,10 +6,10 @@ import Services from "./Services";
 
 const Service = () => {
   return (
-    <div className="text-center py-12">
+    <div className="text-center py-16">
       <h1 className="text-secondary text-2xl">Our Services</h1>
       <h2 className="text-neutral text-3xl">Services We Provide</h2>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 p-12">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 py-16 p-12">
         <Services title="Fluoride Treatment" img={fluoride}></Services>
         <Services title="Cavity Filling" img={cavity}></Services>
         <Services title="Teeth Whitening" img={whitening}></Services>
