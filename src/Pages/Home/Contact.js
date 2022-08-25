@@ -24,6 +24,9 @@ const Contact = () => {
         <div>
           <textarea class="textarea" placeholder="Your message"></textarea>
         </div>
+        <button className="mt-4 btn btn-primary uppercase text-white font-bold bg-gradient-to-r from-secondary to-primary">
+          Submit
+        </button>
       </div>
     </div>
   );
