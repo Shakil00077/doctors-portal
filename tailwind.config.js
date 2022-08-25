@@ -22,6 +22,6 @@ module.exports = {
   plugins: [require("daisyui")],
   backgroundImage: {
     "hero-pattern": "url('/src/assets/images/bg.png')",
-    "hero-pattern2": "url('/src/assets/images/appointment.png.png')",
+    "hero-pattern2": "url('/src/assets/images/appointment.png')",
   },
 };
