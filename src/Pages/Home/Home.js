@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "../Shared/Footer";
-import Appointment from "./Appointment";
+import MakeAppointment from "./MakeAppointment";
 import Banner from "./Banner";
 import Contact from "./Contact";
 import Info from "./Info";
@@ -15,7 +15,7 @@ const Home = () => {
       <Info></Info>
       <Service></Service>
       <Treatment></Treatment>
-      <Appointment></Appointment>
+      <MakeAppointment></MakeAppointment>
       <Testimonial></Testimonial>
       <Contact></Contact>
       <Footer></Footer>
