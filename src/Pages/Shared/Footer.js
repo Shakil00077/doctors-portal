@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="text-center text-info mb-16">
-        <p>Copyright 2022 All Rights Reserved</p>
+        <p>Copyright ©2022 All Rights Reserved @Shakil Islam.</p>
       </div>
     </div>
   );
